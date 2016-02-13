@@ -1,0 +1,7 @@
+name = Portland Core
+description = Custom configuration related to the Portland distribution.
+core = 7.x
+package = Portland
+files[] = portland_core.module
+files[] = portland_core.install
+
